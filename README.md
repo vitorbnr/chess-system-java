@@ -35,14 +35,17 @@ Para executar o projeto em sua máquina, siga os passos abaixo:
 1. **Clone o repositório**: Abra o terminal ou o prompt de comando e execute o comando abaixo para clonar o repositório localmente:
    ```bash
    git clone https://github.com/vitorbnr/chess-system-java.git
-Navegue até o diretório do projeto: Após o clone ser concluído, entre no diretório do projeto e digite o comando:
+Navegue até o diretório do projeto: Após o clone ser concluído, entre no diretório do projeto:
 
+bash
 cd chess-system-java
 Compile o projeto: Se você estiver usando o terminal, você pode compilar os arquivos Java com o comando abaixo:
 
+bash
 javac application/Program.java
 Execute o projeto no terminal: Após a compilação, navegue para a pasta out, depois production, depois chess-system-java e execute o comando:
 
+bash
 java application.Program
 Execute o projeto na IDE: Abra sua IDE (por exemplo, IntelliJ IDEA), importe o projeto e execute a classe Program.java dentro do pacote application.
 
