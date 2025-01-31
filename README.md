@@ -35,7 +35,7 @@ Para executar o projeto em sua máquina, siga os passos abaixo:
 1. **Clone o repositório**: Abra o terminal ou o prompt de comando e execute o comando abaixo para clonar o repositório localmente:
    ```bash
    git clone https://github.com/vitorbnr/chess-system-java.git
-Navegue até o diretório do projeto: Após o clone ser concluído, entre no diretório do projeto:
+Navegue até o diretório do projeto: Após o clone ser concluído, entre no diretório do projeto com o comando:
 
 cd chess-system-java
 
