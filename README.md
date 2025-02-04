@@ -43,12 +43,12 @@ cd chess-system-java
 - **Compile o projeto**: Se você estiver usando o terminal, você pode compilar os arquivos Java com o comando abaixo:
 
 ```bash
-javac application/Program.java
+javac -cp src src/application/Program.java
 ```
 - **Execute o projeto no terminal**: Após a compilação, navegue para a pasta out, depois production, depois chess-system-java e execute o comando:
 
 ```bash
-java application.Program
+java -cp src application.Program
 ```
 
 - **Execute o projeto na IDE**: Abra sua IDE (por exemplo, IntelliJ IDEA), importe o projeto e execute a classe Program.java dentro do pacote application.
