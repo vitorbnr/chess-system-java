@@ -60,6 +60,12 @@ java -cp src application.Program
 
 - **Finalização**: O jogo termina quando um dos jogadores dá xeque-mate ou ocorre um empate conforme as regras do xadrez.
 
+### Exemplos de Movimento:
+![Movimento 1](https://imgur.com/TG2FgVT.png)
+![Movimento 2](https://imgur.com/BJPmGLW.png)
+![Movimento 3](https://imgur.com/YPJo8FO.png)
+
+
 ## Aprendizados 📚
 Este projeto foi fundamental para fortalecer os seguintes conceitos:
 
